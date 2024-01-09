@@ -153,9 +153,9 @@ export default function Index({ publication, initialAllPosts, initialPageInfo }:
 					</div>
 
 					{allPosts.length > 0 && (
-						<div className="bg-primary-50 grid grid-cols-4 rounded-lg px-5 py-5 dark:bg-neutral-900 md:py-10">
+						<div className="bg-[#6c29ff]/10 grid grid-cols-4 rounded-lg px-5 py-5 dark:bg-neutral-900 md:py-10">
 							<div className="col-span-full md:col-span-2 md:col-start-2">
-								<h2 className="text-primary-600 dark:text-primary-500 mb-5 text-center text-lg font-semibold">
+								<h2 className="text-[#6c29ff] dark:text-[#6c29ff] mb-5 text-center text-lg font-semibold">
 									Subscribe to our newsletter for trending hrms updates.
 								</h2>
 								<SubscribeForm />
