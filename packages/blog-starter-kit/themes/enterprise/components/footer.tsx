@@ -48,7 +48,7 @@ export const Footer = () => {
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Slack
+										Linkedin
 									</a>
 								</li>
 							</ul>
@@ -68,7 +68,7 @@ export const Footer = () => {
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Source Code
+										HRMS Calculator
 									</a>
 								</li>
 								<li>
@@ -131,7 +131,7 @@ export const Footer = () => {
 					</div>
 					<div className="col-span-2 flex flex-col items-end gap-5 text-right text-slate-600 dark:text-neutral-300 md:text-left">
 						<SocialLinks />
-						<p>&copy; 2023 Company Inc.</p>
+						<p>&copy; 2023 Loyaltri Inc.</p>
 						<p>
 							<a href="#" className="hover:underline">
 								Privacy Policy
